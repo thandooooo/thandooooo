@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaindooooo
 - 👀 I’m interested in being a software engineer
-- 🌱 I’m currently learning python,java and sql
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on web designing and other programming languages to build solutions for end users
 - 📫 How to reach me via email
 - 😄 Pronouns: she/her
